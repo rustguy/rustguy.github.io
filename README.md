@@ -15,7 +15,7 @@ My challenge is to do something about Rust every day and starting point is:
 
 ## February 2023
 
-* Feb, 07: Signup for https://letsgetrusty.com/ newsletter
+* Feb, 07: Signup for [letsgetrusty.com](https://letsgetrusty.com/) newsletter
 * Feb, 08: Apply for C/Rust Developer role
-* Feb, 09: Setup https://github.com/rustguy/
-* Feb, 10: Setup https://rustguy.github.io/ and h
+* Feb, 09: Setup [github.com/rustguy](https://github.com/rustguy)
+* Feb, 10: Setup [rustguy.github.io](https://rustguy.github.io/) and [save-the-planet-with-rust](https://github.com/rustguy/save-the-planet-with-rust)
