@@ -11,7 +11,7 @@ My challenge is to do something about Rust every day and starting point is:
 
 * studied [Programming Rust, 2nd Edition book](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) in 2022
 * skimmed [Hands-On Microservices with Rust](https://www.amazon.pl/Hands-Microservices-Rust-scalable-microservices/dp/1789342759/) in 2021
-* skimmed [The Rust Programming Language](https://doc.rust-lang.org/book/) in 2022
+* skimmed [The Rust Programming Language](https://doc.rust-lang.org/book/) in 2020
 
 ## February 2023
 
