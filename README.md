@@ -22,3 +22,7 @@ My challenge is to do something about Rust every day. My starting point is:
 * Feb, 09: Setup [github.com/rustguy](https://github.com/rustguy)
 * Feb, 10: Setup [rustguy.github.io](https://rustguy.github.io/) and [save-the-planet-with-rust](https://github.com/rustguy/save-the-planet-with-rust)
 * Feb, 11: [plan] Setup IDE. I've been **vim** user for ages but feel like I am gonna use mainly **VS** for Rust development. 
+
+### Contact
+
+rustguy [at] proton.me
