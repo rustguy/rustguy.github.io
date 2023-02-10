@@ -1,6 +1,7 @@
 # rustguy.github.io
 
 Hi there!
+
 I've been software developer for 18 years, mainly building distributed systems in C and Python. 
 
 I quit my job at [Proton](https://proton.me/) after 5 years to have a rest and make a career pivot into Rust.
