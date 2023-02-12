@@ -16,12 +16,14 @@ My challenge is to do something about Rust every day. My starting point is:
 
 ## February 2023
 
-* Feb, 06: Apply for Rust Developer role at [KeyRock](https://keyrock.eu/)
-* Feb, 07: Signup for [letsgetrusty.com](https://letsgetrusty.com/) newsletter
-* Feb, 08: Apply for C/Rust Developer role at [Fudo Security](https://fudosecurity.com/)
+* Feb, 06: Apply for Rust Developer role at crypto/financial startup
+* Feb, 07: _
+* Feb, 08: Apply for C/Rust Developer role at security company
 * Feb, 09: Setup [github.com/rustguy](https://github.com/rustguy)
 * Feb, 10: Setup [rustguy.github.io](https://rustguy.github.io/) and [save-the-planet-with-rust](https://github.com/rustguy/save-the-planet-with-rust)
-* Feb, 11: [plan] Setup IDE. I've been **vim** user for ages but feel like I am gonna use mainly **VS** for Rust development. 
+* Feb, 11: _
+* Feb, 12: _
+* Feb, 13: Setup IDE. I've been **vim** user for ages but feel like I am gonna use mainly **VS** for Rust development. I learned VS shortcuts, installed Rust extension in VS and connected with [github.com/rustguy](https://github.com/rustguy)
 
 ### Contact
 
