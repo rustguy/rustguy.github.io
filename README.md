@@ -16,8 +16,7 @@ My challenge is to do something about Rust every day. My starting point is:
 
 ## February 2023
 
-* Feb, 06: Apply for Rust Developer role at crypto/financial startup
-* Feb, 07: _
+* Feb, 07: Apply for Rust Developer role at crypto/financial startup
 * Feb, 08: Apply for C/Rust Developer role at security company
 * Feb, 09: Setup [github.com/rustguy](https://github.com/rustguy)
 * Feb, 10: Setup [rustguy.github.io](https://rustguy.github.io/) and [save-the-planet-with-rust](https://github.com/rustguy/save-the-planet-with-rust)
